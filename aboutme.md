@@ -8,8 +8,8 @@ My name is Vanessa Quinland.
 
 - I am a sophomore at Williams College
 - I am from Long Island, New York
-
-What else do you need?
+- I am a taurus
+- I have been a dancer by whole life
 
 ### my history
 
