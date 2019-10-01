@@ -11,4 +11,7 @@ comments: true
 
 ![Back of the Plushy](/img/Back-Side.jpg)
 
+![Paper Prototype](/img/Paper-Proto.jpg)
+
+
 One hint I would suggest is to make sure that your knots are on the same side of the plushy as your stitching when you begin, in order to make it look cleaner. 
