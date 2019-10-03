@@ -4,7 +4,7 @@ title: Plushy Redux
 comments: true
 ---
 
-In this assignment
+In this assignment we were tasked to use nested in our code to represent when our real life plushies would light up or not. 
 
 ![Code when lights on](/img/Plushy1.png)
 ![Code when lights off](/img/Plushy2.png)
