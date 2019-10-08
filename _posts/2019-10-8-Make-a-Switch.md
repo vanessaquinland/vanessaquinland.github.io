@@ -5,6 +5,7 @@ comments: true
 ---
 This assignment is using conductive thread, conductive fabric, and fabric patches in order to create a close circuit that will light up an LED. 
 
+![Paper Prototype](/img/SwitchPaper.jpg)
 ![Alligator Clip Prototype](/img/AlligatorSwitch.jpg)
 ![Finished Product Front](/img/FinalSwitch.jpg)
 ![Finished Product Back](/img/FinalSwitchBack.jpg)
