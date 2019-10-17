@@ -6,12 +6,10 @@ comments: true
 This assignment is 
 
 This is 
-![Flashbulb Code](/img/flashbulb.png)
-
+![Flashbulb Code](/img/
 This is
-![Synchronous Code](/img/synchronous.png)
-
+![Synchronous Code](/img/\
 This
-![Big Dipper](/img/bigdipper.png)
+![Big Dipper](/img.png)
 
 One hint I would give myself 
