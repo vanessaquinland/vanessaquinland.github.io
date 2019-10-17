@@ -6,9 +6,9 @@ comments: true
 This assignment is using the program arduino in order to make LED lights flash in a patter consistant with three different types of fireflies. 
 
 This is 
-![Flashbulb Code](/img/
+![Flashbulb](/img/
 This is
-![Synchronous Code](/img/\
+![Synchronous](/img/\
 This
 ![Big Dipper](/img.png)
 
