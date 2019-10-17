@@ -3,7 +3,7 @@ layout: post
 title: Seperate Sparklies
 comments: true
 ---
-This assignment is 
+This assignment is using the program arduino in order to make LED lights flash in a patter consistant with three different types of fireflies. 
 
 This is 
 ![Flashbulb Code](/img/
