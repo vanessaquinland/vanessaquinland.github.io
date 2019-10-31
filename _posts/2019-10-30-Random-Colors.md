@@ -5,13 +5,12 @@ comments: true
 ---
 This assignment is
 
-This is the Flashbulb result
+The light lit up three different ways. 
+
 ![Lit up blue](/img/blue.jpg)
 
-This is Synchronous result
 ![Lit up pink](/img/pink.jpg)
 
-This is the Big Dipper result
-![Lit up Green](/img/green.jpg)
+![Lit up Green](/img/teal.jpg)
 
 One trick I would give myself is that touching the alligator clips works the same as connecting the alligator clips to the button and then pressing the button. 
