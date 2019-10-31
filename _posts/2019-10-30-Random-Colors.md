@@ -3,7 +3,7 @@ layout: post
 title: Random Colors
 comments: true
 ---
-This assignment is
+This assignment requires using code to light up the Lilypad with different colors, and the colors are picked randomly and only appear when a switch is being pressed. 
 
 The light lit up three different ways. 
 
