@@ -8,4 +8,6 @@ comments: true
 
 ![Everything connected with alligtor clips](/img/ProjectPlan.jpg)
 
+![Everything connected with alligtor clips](/img/Proposal.jpg)
+
 
