@@ -4,5 +4,5 @@ title: Project Proposal
 comments: true
 ---
 
-![](/img/ProjectPlan.jpg)
+![](/img/ProjectPlan.png)
 
