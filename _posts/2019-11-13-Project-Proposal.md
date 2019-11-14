@@ -4,5 +4,5 @@ title: Project Proposal
 comments: true
 ---
 
-![](/img/ProjectPlan.png)
+![The project proposal](/img/ProjectPlan.png)
 
