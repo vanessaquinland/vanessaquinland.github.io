@@ -4,7 +4,7 @@ title: Paper Prototype
 comments: true
 ---
 
-![Project Paper Prototypr](/img/.jpg)
+![Project Paper Prototype](/img/PPP.jpg)
 
 
 
