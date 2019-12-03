@@ -7,7 +7,7 @@ comments: true
 Materials Used: Conductive Thread,T-shirt, Fabric, Thread, Needle, Fabric Scissors, LilyPad Arduino, LilyPad Temperature Sensor, LilyPad LED Lights, LilyPad Buzzer, LilyPad Switch.
 
 Revised Paper Prototype
-![](/img/.png)
+![](/img/PaperPro.png)
 
 
 Alligator Prototype
