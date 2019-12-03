@@ -9,8 +9,10 @@ Materials Used: Conductive Thread,T-shirt, Fabric, Thread, Needle, Fabric Scisso
 Revised Paper Prototype
 ![](/img/.png)
 
+
 Alligator Prototype
 ![](/img/AllPrototype.png)
+
 
 Progress
 ![](/img/Progress1.jpg)
