@@ -3,6 +3,11 @@ layout: post
 title: Final Project!
 comments: true
 ---
+Vanessa's Light Up and Buzzing Work Out Tee
+
+This shirt will light up and start buzzing when the switch is on and the temperature sensor reads a high enough temperature.  
+
+Often I will become overheated while working out and not realize until it is too late. This shirt will help me be able to work out and not have to worry that am getting too warm. 
 
 Materials Used: Conductive Thread,T-shirt, Fabric, Thread, Needle, Fabric Scissors, LilyPad Arduino, LilyPad Temperature Sensor, LilyPad LED Lights, LilyPad Buzzer, LilyPad Switch.
 
