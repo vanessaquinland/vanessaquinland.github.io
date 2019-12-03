@@ -21,7 +21,9 @@ Alligator Prototype
 
 Progress
 ![](/img/Progress1.jpg)
+
 ![](/img/Progress2.jpg)
+
 ![](/img/Progress3.jpg)
 
 3 Tips to My Past Self:
