@@ -11,7 +11,7 @@ Revised Paper Prototype
 
 
 Alligator Prototype
-![](/img/AllPrototype.png)
+![](/img/AllPrototype.jpg)
 
 
 Progress
