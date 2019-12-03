@@ -12,14 +12,17 @@ Often I will become overheated while working out and not realize until it is too
 Materials Used: Conductive Thread,T-shirt, Fabric, Thread, Needle, Fabric Scissors, LilyPad Arduino, LilyPad Temperature Sensor, LilyPad LED Lights, LilyPad Buzzer, LilyPad Switch.
 
 Revised Paper Prototype
+
 ![](/img/PaperPro.png)
 
 
 Alligator Prototype
+
 ![](/img/AllPrototype.jpg)
 
 
 Progress
+
 ![](/img/Progress1.jpg)
 
 ![](/img/Progress2.jpg)
