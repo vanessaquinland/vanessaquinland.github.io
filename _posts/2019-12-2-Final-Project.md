@@ -20,7 +20,7 @@ Progress
 ![](/img/.jpg)
 
 3 Tips to My Past Self:
-1)
-2)
+1)When coding, keep in mind where the components will be on the project when considering what port to use. When I didn't there was a lot of wire crossing. 
+2)Remember that the temperature sensor should be written out to an analog output. 
 3)
 
